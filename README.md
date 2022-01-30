@@ -24,7 +24,8 @@ require root).
 
 ## Known Issues
 
-1. When executing a project from gnuradio-companion, you will get an error message (that can be safely ignored) saying:
+1. When executing a project from gnuradio-companion, you will get an
+error message (that can be safely ignored) saying:
 ```
 The xterm executable 'x-terminal-emulator' is missing.
 You can change this setting in your gnuradio.conf, in section
@@ -42,7 +43,11 @@ not matching their checksums.  The files are:
    - isolinux/isolinux.bin
    - isolinux/boot.cat
 
-5. The desktop icon for GNU Radio Companion, aside from not having a good icon, is not being set to allow launching.  For now, you can right-click on it, and select "Allow Launching", or open a terminal and run "gnuradio-companion".
+5. The desktop icon for GNU Radio Companion, aside from not having a
+good icon, is not being set to allow launching.  For now, you can
+right-click on it, and select "Allow Launching", or open a terminal
+and run "gnuradio-companion", or select "GNU Radio Companion" from the
+"Show Applications" menu.
 
 ## Credits
 

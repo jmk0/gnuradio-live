@@ -42,6 +42,8 @@ not matching their checksums.  The files are:
    - isolinux/isolinux.bin
    - isolinux/boot.cat
 
+5. The desktop icon for GNU Radio Companion, aside from not having a good icon, is not being set to allow launching.  For now, you can right-click on it, and select "Allow Launching", or open a terminal and run "gnuradio-companion".
+
 ## Credits
 
 The bulk of this work originates from the post by Rinzwind here:

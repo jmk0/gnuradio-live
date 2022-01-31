@@ -13,6 +13,8 @@ be changed).
 At present, the GNU Radio Ubuntu packages exist for Ubuntu 20, but not
 21, so the ISO for Ubuntu 20 is used as the source.
 
+The scripts must be executed on an existing Ubuntu system.
+
 To use the scripts, change the above variables as needed, then execute
 ```
 sudo build-gr.sh
